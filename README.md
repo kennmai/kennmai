@@ -4,7 +4,7 @@
 
 🏫 Masters student at the University of CA, Berkeley studying Information & Data Science
 
-🧑‍💻 Come from a background in tech strategy consulting, marketing, and data analysis for tech, retail & consumer product industries
+🧑‍💻 Come from a background in strategy consulting, tech modernization, data science for tech, retail & consumer product industries
 
 🤝🏼 Proven success leading teams, navigating ambiguous challenges, and establishing trust with diverse clients
 
