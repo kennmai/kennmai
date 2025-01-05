@@ -23,7 +23,7 @@
 
 - [Quantifying Voter Difficulty](https://github.com/kennmai/Quantifying-Voter-Difficulty): A Statistical Approach to Electoral Barriers
 
-- Decoding Popularity: Advanced Regression Modeling on Spotify's Popular Songs
+- [Popularity Decoded: Advanced Regression Modeling on Spotify's Popular Songs](https://github.com/kennmai/Popularity-Decoded-Associations-Between-Spotify-Track-Audio-Features-and-Popularity)
   
 <!---
 kennmai/kennmai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
