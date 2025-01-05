@@ -1,6 +1,6 @@
-### Data Science Portfolio
+## Data Science Portfolio
 
-## About Me
+### About Me
 
 👋 Hi, my name is Maia
 
@@ -12,9 +12,14 @@
 
 💞️ Looking to collaborate on data science projects centered on privacy and personalized entertainment experiences
 
-------
-## Projects
+### Projects
 
+- Optimizing Healthcare Revenue with Advanced Machine Learning & Statistical Techniques
+- A World Development Indicators Multivariate Analysis: School Enrollment, Labor Force Participation, and Unemployment Across Diverse Economies and Genders
+- Smart Auction Bidding: Adaptive Algorithms for Real-Time Ad Selection
+- Quantifying Voter Difficulty: A Statistical Approach to Electoral Barriers
+- Decoding Popularity: Advanced Regression Modeling on Spotify's Popular Songs
+  
 <!---
 kennmai/kennmai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
