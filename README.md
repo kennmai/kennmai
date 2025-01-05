@@ -21,7 +21,7 @@
 
 - [Smart Auction Bidding](https://github.com/kennmai/Smart-Auction-Bidding): Adaptive Algorithms for Real-Time Ad Selection
 
-- Quantifying Voter Difficulty: A Statistical Approach to Electoral Barriers
+- [Quantifying Voter Difficulty](https://github.com/kennmai/Quantifying-Voter-Difficulty): A Statistical Approach to Electoral Barriers
 
 - Decoding Popularity: Advanced Regression Modeling on Spotify's Popular Songs
   
