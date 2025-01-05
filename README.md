@@ -28,7 +28,7 @@
 ## Core Competencies
 - **Methodologies:** Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
 - **Languages:** Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, HTML
-- Tools: PowerBI, Tableau, Git, Amazon Web Services (AWS), MS Excel
+- **Tools:** PowerBI, Tableau, Git, Amazon Web Services (AWS), MS Excel
 
 ## Certificates
 - PMP: Project Management Professional
