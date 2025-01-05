@@ -1,6 +1,4 @@
-## Data Science Portfolio
-
-### About Me
+## About Me
 
 👋 Hi, my name is Maia
 
@@ -12,12 +10,19 @@
 
 💞️ Looking to collaborate on data science projects centered on privacy and personalized entertainment experiences
 
+💻 Connect with me on LinkedIn: https://www.linkedin.com/in/maia-kennedy/
+
+## Data Science Portfolio
 ### Projects
 
-- Optimizing Healthcare Revenue with Advanced Machine Learning & Statistical Techniques
+- [Optimizing Healthcare Revenue with Advanced Machine Learning & Statistical Techniques](https://github.com/kennmai/ML-Capstone_health-revenue/tree/main): Description Incoming
+
 - A World Development Indicators Multivariate Analysis: School Enrollment, Labor Force Participation, and Unemployment Across Diverse Economies and Genders
+
 - Smart Auction Bidding: Adaptive Algorithms for Real-Time Ad Selection
+
 - Quantifying Voter Difficulty: A Statistical Approach to Electoral Barriers
+
 - Decoding Popularity: Advanced Regression Modeling on Spotify's Popular Songs
   
 <!---
