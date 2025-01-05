@@ -24,6 +24,22 @@
 - [Quantifying Voter Difficulty](https://github.com/kennmai/Quantifying-Voter-Difficulty): A Statistical Approach to Electoral Barriers
 
 - [Popularity Decoded: Advanced Regression Modeling on Spotify's Popular Songs](https://github.com/kennmai/Popularity-Decoded-Associations-Between-Spotify-Track-Audio-Features-and-Popularity)
+
+## Core Competencies
+- **Methodologies:** Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+- **Languages:** Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, HTML
+- Tools: PowerBI, Tableau, Git, Amazon Web Services (AWS), MS Excel
+
+## Certificates
+- PMP: Project Management Professional
+- AI-900: Microsoft Azure AI Fundamentals
+- PL-300: Microsoft Power BI Data Analyst Associate
+- 32-Week Training for Core Data Science & Machine Learning Principles, some certificates include
+  - Generative AI for Data Scientists
+  - Machine Learning with Tree-Based Models
+  - Supervised Learning with Skikit-learn
+  - Prompt Engineering
+  - Extreme Gradient Boosting with XGBoost
   
 <!---
 kennmai/kennmai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
