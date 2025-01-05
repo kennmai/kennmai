@@ -19,7 +19,7 @@
 
 - [A World Development Indicators Multivariate Analysis](https://github.com/kennmai/A-World-Development-Indicators-Multivariate-Analysis/tree/main): School Enrollment, Labor Force Participation, and Unemployment Across Diverse Economies and Genders
 
-- Smart Auction Bidding: Adaptive Algorithms for Real-Time Ad Selection
+- [Smart Auction Bidding](https://github.com/kennmai/Smart-Auction-Bidding): Adaptive Algorithms for Real-Time Ad Selection
 
 - Quantifying Voter Difficulty: A Statistical Approach to Electoral Barriers
 
