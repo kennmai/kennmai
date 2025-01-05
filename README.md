@@ -1,14 +1,19 @@
 ### Data Science Portfolio
 
+## About Me
+
 👋 Hi, my name is Maia
 
 🏫 Masters student at the University of CA, Berkeley studying Information & Data Science
 
-🧑‍💻 Come from a background in tech strategy consulting, marketing, and data analysis for tech and entertainment industries
+🧑‍💻 Come from a background in tech strategy consulting, marketing, and data analysis for tech, retail & consumer product industries
 
 🤝🏼 Proven success leading teams, navigating ambiguous challenges, and establishing trust with diverse clients
 
 💞️ Looking to collaborate on data science projects centered on privacy and personalized entertainment experiences
+
+------
+## Projects
 
 <!---
 kennmai/kennmai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
