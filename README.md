@@ -26,7 +26,7 @@
 - [Popularity Decoded: Advanced Regression Modeling on Spotify's Popular Songs](https://github.com/kennmai/Popularity-Decoded-Associations-Between-Spotify-Track-Audio-Features-and-Popularity)
 
 ## Core Competencies
-- **Methodologies:** Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+- **Methodologies:** Machine Learning, Data Algorithms, Time Series Analysis, Statistics, A/B Testing and Experimentation Design, Big Data Analytics, Data Visualizations
 - **Languages:** Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, HTML
 - **Tools:** PowerBI, Tableau, Git, Amazon Web Services (AWS), MS Excel
 
