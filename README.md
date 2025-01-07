@@ -4,13 +4,11 @@
 
 🏫 Masters student at the University of CA, Berkeley studying Information & Data Science
 
-🧑‍💻 Come from a background in strategy consulting, tech modernization, data science for tech, retail & consumer product industries
+🧑‍💻 Come from a background in tech consulting, machine learning, and data science for tech, retail & consumer product industries
 
 🤝🏼 Proven success leading teams, navigating ambiguous challenges, and establishing trust with diverse clients
 
-💞️ Looking to collaborate on data science projects centered on privacy and personalized entertainment experiences
-
-💻 Connect with me on LinkedIn: https://www.linkedin.com/in/maia-kennedy/
+💻 Looking to collaborate on data science projects centered on privacy and personalized entertainment experiences? Connect with me!
 
 ## Data Science Portfolio
 ### Projects
