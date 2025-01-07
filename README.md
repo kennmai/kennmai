@@ -17,11 +17,11 @@
 
 - [Optimizing Healthcare Revenue with Advanced Machine Learning & Statistical Techniques](https://github.com/kennmai/ML-Capstone_health-revenue/tree/main): Description Incoming
 
-- [A World Development Indicators Multivariate Analysis](https://github.com/kennmai/A-World-Development-Indicators-Multivariate-Analysis/tree/main): In this project, I investigated the World Bank - World Development Indicators to answer a major question: Is primary school enrollment linked to labor force participation and unemployment in low-, middle-, and high-income countries across genders?
+- [A World Development Indicators Multivariate Analysis](https://github.com/kennmai/A-World-Development-Indicators-Multivariate-Analysis/tree/main): This project investigates the World Bank - World Development Indicators to answer a major question: Is primary school enrollment linked to labor force participation and unemployment in low-, middle-, and high-income countries across genders?
 
-- [Smart Auction Bidding](https://github.com/kennmai/Smart-Auction-Bidding): Inspired by multi-armed bandit literature, I created an ad auction model and developed an adaptive algorithm for bidding to maximize payoffs.
+- [Smart Auction Bidding](https://github.com/kennmai/Smart-Auction-Bidding): Inspired by multi-armed bandit literature, this project features an ad auction model and adaptive algorithm designed for multiple instantanous bidders and companies to maximize payoffs.
 
-- [Quantifying Voter Difficulty](https://github.com/kennmai/Quantifying-Voter-Difficulty): A Statistical Approach to Electoral Barriers
+- [Quantifying Voter Difficulty](https://github.com/kennmai/Quantifying-Voter-Difficulty): This analysis aims to address the following research question: Do Democratic voters or Republican voters experience more diﬀiculty voting? A better understanding of these challenges can help develop targeted initiatives to reduce obstacles, increase voter turnout, and ensure a more equitable voting process for everyone.
 
 - [Popularity Decoded: Advanced Regression Modeling on Spotify's Popular Songs](https://github.com/kennmai/Popularity-Decoded-Associations-Between-Spotify-Track-Audio-Features-and-Popularity)
 
