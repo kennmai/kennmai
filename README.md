@@ -17,9 +17,9 @@
 
 - [Optimizing Healthcare Revenue with Advanced Machine Learning & Statistical Techniques](https://github.com/kennmai/ML-Capstone_health-revenue/tree/main): Description Incoming
 
-- [A World Development Indicators Multivariate Analysis](https://github.com/kennmai/A-World-Development-Indicators-Multivariate-Analysis/tree/main): School Enrollment, Labor Force Participation, and Unemployment Across Diverse Economies and Genders
+- [A World Development Indicators Multivariate Analysis](https://github.com/kennmai/A-World-Development-Indicators-Multivariate-Analysis/tree/main): In this project, I investigated the World Bank - World Development Indicators to answer a major question: Is primary school enrollment linked to labor force participation and unemployment in low-, middle-, and high-income countries across genders?
 
-- [Smart Auction Bidding](https://github.com/kennmai/Smart-Auction-Bidding): Adaptive Algorithms for Real-Time Ad Selection
+- [Smart Auction Bidding](https://github.com/kennmai/Smart-Auction-Bidding): Inspired by multi-armed bandit literature, I created an ad auction model and developed an adaptive algorithm for bidding to maximize payoffs.
 
 - [Quantifying Voter Difficulty](https://github.com/kennmai/Quantifying-Voter-Difficulty): A Statistical Approach to Electoral Barriers
 
