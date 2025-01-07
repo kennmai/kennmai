@@ -23,7 +23,7 @@
 
 - [Quantifying Voter Difficulty](https://github.com/kennmai/Quantifying-Voter-Difficulty): This analysis aims to address the following research question: Do Democratic voters or Republican voters experience more diﬀiculty voting? A better understanding of these challenges can help develop targeted initiatives to reduce obstacles, increase voter turnout, and ensure a more equitable voting process for everyone.
 
-- [Popularity Decoded: Advanced Regression Modeling on Spotify's Popular Songs](https://github.com/kennmai/Popularity-Decoded-Associations-Between-Spotify-Track-Audio-Features-and-Popularity)
+- [Popularity Decoded: Advanced Regression Modeling on Spotify's Popular Songs](https://github.com/kennmai/Popularity-Decoded-Associations-Between-Spotify-Track-Audio-Features-and-Popularity): This proejct features two statistical models that investigate the relationship between Spotify’s track audio metrics and track popularity using a dataset of over 30,000 songs. Leveraging proprietary Spotify audio features such as energy and instrumentalness, initial findings suggest a statistically significant, though modest, relationship, with danceability explaining only a small fraction of the variance in track popularity.
 
 ## Core Competencies
 - **Methodologies:** Machine Learning, Data Algorithms, Time Series Analysis, Statistics, A/B Testing and Experimentation Design, Big Data Analytics, Data Visualizations
