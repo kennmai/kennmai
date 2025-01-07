@@ -29,9 +29,9 @@
 - **Tools:** PowerBI, Tableau, Git, Amazon Web Services (AWS), MS Excel
 
 ## Certificates
-- PMP: Project Management Professional
-- AI-900: Microsoft Azure AI Fundamentals
-- PL-300: Microsoft Power BI Data Analyst Associate
+- [PMP: Project Management Professional](https://www.credly.com/badges/df17a0d5-7a5a-4973-addf-33132297a54a/public_url)
+- [AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/maiakennedy-3232/credentials/7f1a2cbb096d03b)
+- [PL-300: Microsoft Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/maiakennedy-3232/credentials/77c1ce064eea01d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - 32-Week Training for Core Data Science & Machine Learning Principles, some certificates include
   - Generative AI for Data Scientists
   - Machine Learning with Tree-Based Models
