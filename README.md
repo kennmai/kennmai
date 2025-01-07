@@ -15,7 +15,7 @@
 ## Data Science Portfolio
 ### Projects
 
-- [Optimizing Healthcare Revenue with Advanced Machine Learning & Statistical Techniques](https://github.com/kennmai/ML-Capstone_health-revenue/tree/main): Description Incoming
+- [Optimizing Healthcare Revenue with Advanced Machine Learning & Statistical Techniques](https://github.com/kennmai/ML-Capstone_health-revenue/tree/main): This project involves comprehensive data wrangling, cleaning, and exploratory analysis to uncover key statistical correlations between various factors influencing the revenue of a synthetic medical group. Based on these insights, I developed two distinct and robust machine learning models, decision tree and regression, to predict future revenue with an accuracy margin of 5%.
 
 - [A World Development Indicators Multivariate Analysis](https://github.com/kennmai/A-World-Development-Indicators-Multivariate-Analysis/tree/main): This project investigates the World Bank - World Development Indicators to answer a major question: Is primary school enrollment linked to labor force participation and unemployment in low-, middle-, and high-income countries across genders?
 
