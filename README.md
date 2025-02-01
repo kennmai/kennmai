@@ -8,7 +8,7 @@
 
 🤝🏼 Proven success leading teams, navigating ambiguous challenges, and establishing trust with diverse clients
 
-💻 Looking to collaborate on data science projects centered on privacy and personalized entertainment experiences? Connect with me!
+💻 Looking to collaborate on data science projects centered on consumer journeys, privacy, and personalized entertainment experiences? Connect with me!
 
 ## Data Science Portfolio
 ### [Optimizing Healthcare Revenue with Advanced Machine Learning & Statistical Techniques](https://github.com/kennmai/ML-Capstone_health-revenue/tree/main)
