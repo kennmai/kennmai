@@ -23,7 +23,7 @@
 
 <p>
   <img src="https://github.com/user-attachments/assets/51dfd036-e6cf-40bb-9bf5-1f5d694c3b90" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  Developed a sentiment analysis model using deep learning and NLP to classify IMDB movie reviews as positive or negative. Trained on 50,000 reviews, the model outputs sentiment probabilities, enabling automated audience feedback analysis. This project showcases how machine learning can efficiently gauge sentiment at scale for applications in market research, brand analysis, and content recommendations.
+  In this project, I developed a sentiment analysis model using deep learning and NLP to classify IMDB movie reviews as positive or negative. Trained on 50,000 reviews, the model outputs sentiment probabilities, enabling automated audience feedback analysis. This project showcases how machine learning can efficiently gauge sentiment at scale for applications in market research, brand analysis, and content recommendations.
 </p>
 <br>
 
