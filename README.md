@@ -31,11 +31,12 @@
 
 <p>
   <img src="https://github.com/user-attachments/assets/f5b735d6-89bb-4c5a-8fd8-0dce4eee9177" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  This project involves comprehensive data wrangling, cleaning, and exploratory analysis to uncover key statistical correlations between various factors influencing the revenue of a synthetic medical group. Based on these insights, I developed two distinct and robust machine learning models, decision tree and regression, to predict future revenue with an accuracy margin of 5%.
+  The project focuses on Decision Tree and Linear Regression models, primarily using Scikit-learn and other Python ML libraries. Through feature selection, model tuning, and cross-validation, I developed predictive models capable of forecasting revenue with a 10% accuracy margin.
 </p>
 <br>
 
-### [Popularity Decoded: Advanced Regression Modeling on Spotify's Popular Songs](https://github.com/kennmai/Popularity-Decoded-Associations-Between-Spotify-Track-Audio-Features-and-Popularity)
+
+### [The Danceability Effect: Associating Spotify Track Popularity Through Statistical Analysis in R](https://github.com/kennmai/Popularity-Decoded-Associations-Between-Spotify-Track-Audio-Features-and-Popularity)
 
 <p>
   <img src="https://github.com/user-attachments/assets/13ac816e-f844-4c5a-bc33-b31e9f69092f" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
@@ -43,18 +44,18 @@
 </p>
 <br>
 
-### [Smart Auction Bidding: Adaptive Algorithm Programming](https://github.com/kennmai/Smart-Auction-Bidding)
+### [Optimizing Ad Spend: Adaptive Auction Bidding Algorithm for Marketing Efficiency](https://github.com/kennmai/Smart-Auction-Bidding)
 
 <p>
   <img src="https://github.com/user-attachments/assets/68545ec9-7028-48f9-94c2-2d946a331620" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  Smart ad bidding is increasingly important in marketing and retail because it leverages automation, data analysis, and adaptive techniques to optimize advertising spend and performance in real time. Inspired by multi-armed bandit literature, this project features an ad auction model and adaptive algorithm designed for multiple instantanous bidders and companies to maximize payoffs.
+  Smart ad bidding plays a crucial role in modern marketing and retail, using advanced data analysis techniques can help optimize advertising efforts in real-time. This project leverages insights from multi-armed bandit algorithms to design an adaptive auction model that enables multiple bidders and companies to dynamically maximize payoffs and ROI in competitive ad environments. The project is rooted in algorithmic design, data structures, and optimization and seeks to optimize the balance between exploration and exploitation in bidding strategies.
 </p>
 <br>
 
-### [Quantifying Voter Difficulty](https://github.com/kennmai/Quantifying-Voter-Difficulty)
+### [Statistical Analysis of Voting Barriers: Exploring Political Disparities in Voter Difficulty](https://github.com/kennmai/Quantifying-Voter-Difficulty)
 <p>
   <img src="https://github.com/user-attachments/assets/6db4cc8b-fa58-4228-8123-43b2c16c5690" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  This analysis seeks to explore the following critical research question: Do Democratic or Republican voters face greater challenges in the voting process? By gaining deeper insights into the specific obstacles encountered by voters from each party, this study aims to inform the development of targeted interventions that can effectively reduce barriers to voting, enhance voter participation, and promote a more inclusive and equitable electoral system for all citizens.
+  This analysis examines the relationship between political affiliation and voting difficulty, using a Chi-Square test to determine if party affiliation is significantly associated with voting challenges. The application of this research is to identify party-specific obstacles and inform targeted interventions to reduce voting barriers, enhance participation, and promote an equitable electoral system.
 </p>
 <br>
 
