@@ -47,20 +47,17 @@
 
 
 ## Core Competencies
-- **Methodologies:** Machine Learning, Data Algorithms, Time Series Analysis, Statistics, A/B Testing and Experimentation Design, Big Data Analytics, Data Visualizations
-- **Languages:** Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, HTML
-- **Tools:** PowerBI, Tableau, Git, Amazon Web Services (AWS), MS Excel
+- **Methodologies:** Machine Learning, Deep Learning, Natural Language Processing (NLP), A/B Testing and Experimentation Design, Data Algorithms, Statistical Modeling, Predictive Analytics, ETL Processes
+- **Languages:** Python (Tensorflow, Pandas, Numpy, Scikit-Learn, XGBoost, Scipy, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL (for complex querying and data manipulation, HTML (for visualization integration / web-based tools)
+- **Tools:** Dataiku, Snowflake, PowerBI, Tableau, Git, Amazon Web Services (AWS) Cloud Environments, MS Excel
+- **Data Engineering:** SQL / NoSQL databases (Neo4j, MongoDB, Redis)
+
 
 ## Certificates
 - [PMP: Project Management Professional](https://www.credly.com/badges/df17a0d5-7a5a-4973-addf-33132297a54a/public_url)
 - [AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/maiakennedy-3232/credentials/7f1a2cbb096d03b)
 - [PL-300: Microsoft Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/maiakennedy-3232/credentials/77c1ce064eea01d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- 32-Week Training for Core Data Science & Machine Learning Principles, some certificates include
-  - Generative AI for Data Scientists
-  - Machine Learning with Tree-Based Models
-  - Supervised Learning with Skikit-learn
-  - Prompt Engineering
-  - Extreme Gradient Boosting with XGBoost
+- Deloitte Certified Core Data Scientist & Prompt Engineer
   
 <!---
 kennmai/kennmai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
