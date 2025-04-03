@@ -25,6 +25,7 @@
   This project features two statistical models that investigate the relationship between Spotify’s track audio metrics and track popularity using a dataset of over 30,000 songs. Leveraging proprietary Spotify audio features such as danceability, energy, and instrumentalness, initial findings suggest a statistically significant, though modest, relationship, with danceability explaining only a small fraction of the variance in track popularity.
 </p>
 
+
 ### [Smart Auction Bidding: Adaptive Algorithm Programming](https://github.com/kennmai/Smart-Auction-Bidding)
 
 <p>
