@@ -2,13 +2,13 @@
 
 👋 Hi, my name is Maia
 
-🏫 Masters student at the University of CA, Berkeley studying Information & Data Science
+🧑‍💻 Come from a background for 5+ years in tech consulting, machine learning, and data science for tech, retail & consumer product industries
 
-🧑‍💻 Come from a background in tech consulting, machine learning, and data science for tech, retail & consumer product industries
+🏫 Now also a Masters Candidate at the University of CA, Berkeley studying Information & Data Science
 
 🤝🏼 Proven success leading teams, navigating ambiguous challenges, and establishing trust with diverse clients
 
-💻 Looking to collaborate on data science projects centered on consumer journeys, privacy, and personalized entertainment experiences? Connect with me!
+💻 Looking to collaborate on data science projects centered on product management, consumer journeys, privacy, and personalized entertainment experiences? Connect with me!
 
 ## Data Science Portfolio
 ### [Deep Learning for Diabetic Retinopathy Detection: Enhancing CNN Performance with Image Augmentation](https://github.com/kennmai/CNN-for-Retinopathy-Images)
