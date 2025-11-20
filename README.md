@@ -2,9 +2,9 @@
 
 👋 Hi, my name is Maia
 
-🧑‍💻 Come from a background for 5+ years in tech consulting, machine learning, and data science for tech, retail & consumer product industries
+🧑‍💻 Background in tech strategy consulting, machine learning, and data science for tech, retail & consumer product industries
 
-🏫 Now also a Masters Candidate at the University of CA, Berkeley studying Information & Data Science
+🏫 Masters in Information & Data Science at the University of CA, Berkeley
 
 🤝🏼 Proven success leading teams, navigating ambiguous challenges, and establishing trust with diverse clients
 
