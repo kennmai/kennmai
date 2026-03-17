@@ -4,7 +4,7 @@
 
 🧑‍💻 Background in tech strategy consulting, machine learning, and data science for tech, retail & consumer product industries
 
-🏫 Masters in Information & Data Science at the University of CA, Berkeley
+🏫 Information & Data Science at the University of CA, Berkeley
 
 🤝🏼 Proven success leading teams, navigating ambiguous challenges, and establishing trust with diverse clients
 
