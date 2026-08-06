@@ -6,7 +6,7 @@ I have proven success leading teams, navigating ambiguous challenges, and establ
 
 Looking to collaborate on data science projects centered on product management, consumer journeys, privacy, and personalized entertainment experiences? Connect with me!
 
-## Data Science Portfolio
+## Data Science & Applied AI Portfolio
 
 ### [complyraAI: Auditable Grant-Compliance Risk Triage with Applied NLP](https://github.com/kennmai/complyra-ai)
 
