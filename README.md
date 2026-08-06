@@ -7,6 +7,39 @@ I have proven success leading teams, navigating ambiguous challenges, and establ
 Looking to collaborate on data science projects centered on product management, consumer journeys, privacy, and personalized entertainment experiences? Connect with me!
 
 ## Data Science Portfolio
+
+### [complyraAI: Auditable Grant-Compliance Risk Triage with Applied NLP](https://github.com/kennmai/complyra-ai)
+
+<p>
+  <img src="https://raw.githubusercontent.com/kennmai/complyra-ai/main/assets/grant_module.png" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  I built an auditable applied-AI system that converts NIH grant metadata into transparent compliance risk profiles with inspectable rules, evidence-informed flags, and reviewer next steps. A separate Flan-T5 research track tested corrective-action drafting with institution-level data splits and explicit deployment gates while keeping generated text outside the consequential scoring path. The project demonstrates how deterministic decision logic, NLP experimentation, and human oversight can work together in a high-stakes workflow.
+</p>
+<br>
+
+### [A Persona-Aware Retrieval and Evaluation System](https://github.com/kennmai/rag-evaluation-lab)
+
+<p>
+  <img src="https://raw.githubusercontent.com/kennmai/rag-evaluation-lab/main/assets/audience-leaderboard.png" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  I built an end-to-end RAG system that routes engineering, marketing, and research questions through persona-specific retrieval and generation configurations. I reconstructed 611 experiment records and developed a governed evaluation layer with question-aware aggregation, metric-weight sensitivity, and bootstrap ranking stability. The project moves beyond a single leaderboard score to show how RAG model selection can be reproducible, evidence-driven, and aligned with distinct user needs.
+</p>
+<br>
+
+### [Engineering Flight Delay Predictions at Scale: Spark, Databricks, and Multi-Task Neural Learning](https://github.com/kennmai/scalable-flight-delay-pipeline)
+
+<p>
+  <img src="https://raw.githubusercontent.com/kennmai/scalable-flight-delay-pipeline/main/assets/model-comparison.png" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  I engineered a Databricks and Spark pipeline over 41.4 million flight records with weather, temporal, congestion, and network features, then trained a custom ResFiLM multi-task neural network to predict both delay minutes and 15+ minute delay risk. The final model improved held-out F2 from 0.537 to 0.619 and reduced MAE from 14.32 to 11.34 minutes. The project highlights temporal validation, leakage controls, Optuna tuning, MLflow tracking, and production-minded threshold selection.
+</p>
+<br>
+
+### [Testing the Personalization Promise: A Factorial E-Commerce Experiment](https://github.com/kennmai/causal-product-experimentation)
+
+<p>
+  <img src="https://raw.githubusercontent.com/kennmai/causal-product-experimentation/main/assets/observed-outcomes.png" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  I designed and analyzed a 3 x 2 randomized e-commerce experiment with 272 participants to test whether identity-based personalization and product bundling change simulated spending and purchase likelihood. The study found no reliable lift, creating a practical case study in null-result interpretation, treatment strength, statistical power, and experiment redesign. The public repository reproduces treatment contrasts from privacy-preserving aggregate statistics while clearly separating exploratory diagnostics from causal evidence.
+</p>
+<br>
+
 ### [Deep Learning for Diabetic Retinopathy Detection: Enhancing CNN Performance with Image Augmentation](https://github.com/kennmai/CNN-for-Retinopathy-Images)
 
 <p>
