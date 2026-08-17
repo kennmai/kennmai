@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, my name is Maia. I come from a background in applied AI science, tech strategy consulting, machine learning, and data science for tech, retail & consumer product industries, and geophysical applications. I have a Masters in Data Science from the University of California, Berkeley. 
+Hi, my name is Maia. I come from a background in applied AI science, tech strategy consulting, product management, machine learning, and data science for tech, retail & consumer product industries, and geophysical applications. I have a Masters in Data Science from the University of California, Berkeley. 
 
 I have proven success leading teams, navigating ambiguous challenges, and establishing trust with diverse clients.
 
